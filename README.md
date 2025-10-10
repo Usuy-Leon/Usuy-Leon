@@ -7,7 +7,7 @@
 
 <div id="webaddress">
   <a href="https://usuy-leon.github.io/cv//"><i class="fa-brands fa-bluesky"></i> CV (Web Version) </a> - -->
-  <a href="https://usuy-leon.github.io/Usuy_Tolosa_CVd.pdf"><i class="fa-brands fa-bluesky"></i> CV (PDF) </a>
+  <a href="https://usuy-leon.github.io/Usuy-Leon//Usuy_Tolosa_CVd.pdf"><i class="fa-brands fa-bluesky"></i> CV (PDF) </a>
 </div>
 
 <div id="webaddress">
