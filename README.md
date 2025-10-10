@@ -1,9 +1,9 @@
-# Usuaryo
 
-
+<p align="center">
 <img width="250" height="420" alt="HDascci" src="https://github.com/user-attachments/assets/9f290860-ed7f-4b61-838b-bb8d55a4b22d" />
+</p>
 
-
+<h3 align="center">
 ORCID: [0000-0001-7868-9934](https://orcid.org/0000-0001-7868-9934) -  
 
 <div id="webaddress">
@@ -15,3 +15,4 @@ ORCID: [0000-0001-7868-9934](https://orcid.org/0000-0001-7868-9934) -
   <a href="https://usuy-leon.github.io/"><i class="fa-brands fa-bluesky"></i> Usuy-Leon</a> - -->
   <a href="https://neurotree.org/beta/peopleinfo.php?pid=928916"><i class="fa-brands fa-bluesky"></i> NeuroTree</a>
 </div>
+</h3>
