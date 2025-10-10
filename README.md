@@ -4,7 +4,6 @@
 </p>
 
 <h3 align="center">
-ORCID: [0000-0001-7868-9934](https://orcid.org/0000-0001-7868-9934) -  
 
 <div id="webaddress">
   <a href="https://usuy-leon.github.io/cv//"><i class="fa-brands fa-bluesky"></i> CV (Web Version) </a> - -->
