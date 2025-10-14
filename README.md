@@ -1,5 +1,6 @@
-Hello there 👋
-A Biologist by day ☼ and a Open Source player by night  ☾
+### Hello there 👋
+#### A Biologist by day ☼ and a Open Source player by night  ☾
+
 <p align="center">
 <img width="300" height="400" alt="HDascci" src="https://github.com/user-attachments/assets/9f290860-ed7f-4b61-838b-bb8d55a4b22d" />
 </p>
