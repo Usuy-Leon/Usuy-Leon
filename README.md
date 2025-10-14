@@ -15,5 +15,5 @@
   <a href="https://neurotree.org/beta/tree.php?pid=928916"><i class="fa-brands fa-bluesky"></i> NeuroTree</a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usuy-Leon&layout=compacta&hide=javascript,css))
+![Top Langs]((https://github-readme-stats.vercel.app/api/top-langs/?username=Usuy-Leon&layout=compacta)(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,css))
 </h3>
