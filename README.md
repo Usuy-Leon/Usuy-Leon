@@ -14,6 +14,6 @@
   <a href="https://github.com/Usuy-Leon/"><i class="fa-brands fa-bluesky"></i>Usuaryo</a> - -->
   <a href="https://neurotree.org/beta/tree.php?pid=928916"><i class="fa-brands fa-bluesky"></i> NeuroTree</a>
 </div>
-</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usuy-Leon&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usuy-Leon&layout=compacta&hide=javascript,css))
+</h3>
