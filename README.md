@@ -18,8 +18,7 @@
 
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Usuy-Leon&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Usuy-Leon&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=12&hide=tex,css,php">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Usuy-Leon&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=12&hide=tex,css,php">
   <br>
   <br>
 </p>
