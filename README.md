@@ -22,8 +22,4 @@
 </div>
 </h3>
 <samp>
-  <p align="center">
-    
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Usuy-Leon&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=5&hide=tex,css,php">
 
-</p>
