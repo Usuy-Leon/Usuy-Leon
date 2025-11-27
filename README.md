@@ -12,7 +12,7 @@
   </samp><div id="webaddress">
   <a href="https://usuy-leon.github.io/Galery/""><i class="fa-brands fa-bluesky"></i> Galery </a> - -->
   <a href="https://usuy-leon.github.io/home.github.io/""><i class="fa-brands fa-bluesky"></i> Home </a> - -->
-  <a href="https://usuy-leon.github.io/cv//"><i class="fa-brands fa-bluesky"></i> CV (Web Version) </a>
+  <a href="https://usuy-leon.github.io/cv//"><i class="fa-brands fa-bluesky"></i> CV </a>
 
   </div> 
 
